@@ -1,1 +1,3 @@
-A
+Scripts for assembly and annotation of non-standard species without a ref genome and with high heterozygosity.
+Mosty using combination of TrimGalore, trinity, Exonerate, EnTAP.
+Evrerything is combined in a .ipy notebook, you will need to modify file paths as needed. 
